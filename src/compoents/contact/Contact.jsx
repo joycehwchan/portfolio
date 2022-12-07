@@ -23,8 +23,8 @@ const Contact = () => {
             <h2 className="section__title">Get in Touch</h2>
             <span className="section__subtitle">Contact Me</span>
 
-            <div className="contact__container container grid">
-                <div className="contact__content">
+            <div className="contact__container container">
+                {/* <div className="contact__content">
                     <h3 className="contact__title">Talk to me</h3>
 
                     <div className="contact__info">
@@ -39,7 +39,7 @@ const Contact = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className="contact__content">
                     <div className="contact__title">Send me a message</div>
