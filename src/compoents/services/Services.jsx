@@ -18,7 +18,7 @@ const Services = () => {
                 <div>
                     <i className="uil uil-web-grid services__icon"></i>
                     <h3 className="services__title">
-                        Product <br /> Design
+                        Landing Page <br /> UI Design
                     </h3>
                 </div>
 
@@ -31,40 +31,34 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Product Design</h3>
+                        <h3 className="services__modal-title">Landing Page UI Design</h3>
                         <p className="services__modal-description">
-                            Providing quality work to clients and companies.
+                            Professional, minimal & modern landing page.
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Develop the user interface.
+                                    Up to 6 sections
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Web page development
+                                    Pixel perfect design system
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Create UX element interactions
+                                    High fidelity prototyping
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Position your company brand.
-                                </p>
-                            </li>
-                            <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">
-                                    Design and mockups of products for companies.
+                                    Tools: Figma, AdobeXD, Adobe Illustrator
                                 </p>
                             </li>
                         </ul>
@@ -74,9 +68,9 @@ const Services = () => {
 
             <div className="services__content">
                 <div>
-                    <i className="uil uil-arrow services__icon"></i>
+                    <i className="uil uil-mobile-android services__icon"></i>
                     <h3 className="services__title">
-                        UI/UX <br/> Design
+                         Mobile App<br/>UI/UX Design
                     </h3>
                 </div>
 
@@ -89,7 +83,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">UX/UI Design</h3>
+                        <h3 className="services__modal-title">Mobile app UX/UI Design</h3>
                         <p className="services__modal-description">
                             Providing quality work to clients and companies.
                         </p>
@@ -98,31 +92,31 @@ const Services = () => {
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Develop the user interface.
+                                    Low and high Fidelity Wireframe
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Web page development
+                                    Low and high fidelity prototyping
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Create UX element interactions
+                                    Pixel perfect design system
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Position your company brand.
+                                    Usability Testing
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Design and mockups of products for companies.
+                                    Tools: Figma, AdobeXD, Adobe Illustrator
                                 </p>
                             </li>
                         </ul>
@@ -132,9 +126,9 @@ const Services = () => {
 
             <div className="services__content">
                 <div>
-                    <i className="uil uil-edit services__icon"></i>
+                    <i className="uil uil-arrow services__icon"></i>
                     <h3 className="services__title">
-                        Visual <br/> Design
+                        Figma Design<br/> to Code
                     </h3>
                 </div>
 
@@ -147,40 +141,34 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Visual Design</h3>
+                        <h3 className="services__modal-title">Figma Design to Code</h3>
                         <p className="services__modal-description">
-                            Providing quality work to clients and companies.
+                            Convert your Figma design or Adobe XD design into code.
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Develop the user interface.
+                                    Single landing page
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Web page development
+                                    Tailwind or Bootstrap CSS
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Create UX element interactions
+                                    Quality UI/UX functionality
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Position your company brand.
-                                </p>
-                            </li>
-                            <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">
-                                    Design and mockups of products for companies.
+                                    Mobile-first, fully-responsive design
                                 </p>
                             </li>
                         </ul>

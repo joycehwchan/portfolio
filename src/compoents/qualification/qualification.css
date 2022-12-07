@@ -14,6 +14,8 @@
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
+    padding: 0 .2rem;
+    border-bottom: 2px solid transparent;
 }
 
 .qualification__button:hover{
@@ -26,7 +28,8 @@
 }
 
 .qualification__active {
-    color: var(--title-color-dark);
+    color: var(--title-color);
+    border-bottom: 2px solid var(--title-color);
 }
 
 .qualification__sections {
