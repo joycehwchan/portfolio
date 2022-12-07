@@ -5,7 +5,8 @@ const Footer = () => {
   return (
     <footer className="footer">
         <div className="footer__container container">
-            <h1 className="footer__title">Joyce C.</h1>
+            {/* <h1 className="footer__title">Joyce C.</h1> */}
+
             <ul className="footer__list">
                 <li>
                     <a href="#about" className="footer__link">About</a>
@@ -21,16 +22,16 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-                <a href="https://www.instagram.com/" className="footer__social-link" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/joycehwchan/" className="footer__social-link" target="_blank" rel="noreferrer">
+                    <i className="uil uil-linkedin-alt"></i>
+                </a>
+
+                <a href="https://github.com/joycehwchan" className="footer__social-link" target="_blank" rel="noreferrer">
+                    <i className="uil uil-github-alt"></i>
+                </a>
+
+                <a href="https://www.instagram.com/joycehwchan/" className="footer__social-link" target="_blank" rel="noreferrer">
                     <i className="uil uil-instagram"></i>
-                </a>
-
-                <a href="https://www.facebook.com/" className="footer__social-link" target="_blank" rel="noreferrer">
-                    <i className="uil uil-facebook"></i>
-                </a>
-
-                <a href="https://twitter.com/" className="footer__social-link" target="_blank" rel="noreferrer">
-                    <i className="uil uil-twitter"></i>
                 </a>
             </div>
 
