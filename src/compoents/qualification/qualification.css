@@ -14,22 +14,23 @@
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
-    padding: 0 .2rem;
-    border-bottom: 2px solid transparent;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
 }
 
 .qualification__button:hover{
-    color: var(--title-color-dark);
+    background-color: var(--title-color);
+    color: var(--container-color);
+}
+
+.qualification__active {
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .qualification__icon {
     font-size: 1.8rem;
     margin-right: var(--mb-0-25);
-}
-
-.qualification__active {
-    color: var(--title-color);
-    border-bottom: 2px solid var(--title-color);
 }
 
 .qualification__sections {

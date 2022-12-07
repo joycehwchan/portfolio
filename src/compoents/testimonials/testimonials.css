@@ -1,6 +1,9 @@
 .testimonial__container {
     width: 750px;
+}
 
+.testimonials__container {
+    margin-bottom: 5rem;
 }
 
 .testimonial__card {
