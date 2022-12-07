@@ -10,7 +10,7 @@ const Data = () => {
             Frontend Developer
         </h3>
         <p className="home__description">
-            I'm a passionate developer based in Tokyo, and I love to bring creative designs to life.
+            I'm a front-end developer with a passion for creating entertaining and engaging user experiences, and I love to bring interesting designs to life. 
         </p>
 
         <a href="#contact" className="button button--flex">
