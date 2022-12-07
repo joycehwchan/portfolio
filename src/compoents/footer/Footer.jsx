@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer__container container">
             {/* <h1 className="footer__title">Joyce C.</h1> */}
 
-            <ul className="footer__list">
+            {/* <ul className="footer__list">
                 <li>
                     <a href="#about" className="footer__link">About</a>
                 </li>
@@ -19,7 +19,7 @@ const Footer = () => {
                 <li>
                     <a href="#testimonials" className="footer__link">Testimonials</a>
                 </li>
-            </ul>
+            </ul> */}
 
             <div className="footer__social">
                 <a href="https://www.linkedin.com/in/joycehwchan/" className="footer__social-link" target="_blank" rel="noreferrer">
