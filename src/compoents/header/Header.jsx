@@ -18,8 +18,8 @@ const Header = () => {
     return (
         <header className="header">
             <nav className="nav container">
-                <a href="https://joycehwchan.github.io/jpーportfolio/" className="nav__logo">
-                    <i class="uil uil-globe"></i>　日本語
+                <a href="https://joycehwchan.github.io/jp-portfolio/" className="nav__logo">
+                    <i class="uil uil-globe"></i> 日本語
                 </a>
 
                 <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
