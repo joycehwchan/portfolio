@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work6.jpg";
 
 export const projectsData = [
   {
@@ -38,6 +39,16 @@ export const projectsData = [
   {
     id: 4,
     image: Work4,
+    title: "Himitsu Chat",
+    description: "A secret chat to share your thoughts with your friends.",
+    link: "joycehwchan.github.io/himitsu-chat/",
+    github: "https://github.com/joycehwchan/himitsu-chat",
+    category: "web",
+    used: "React, Firebase, Sass",
+  },
+  {
+    id: 5,
+    image: Work5,
     title: "OnTrack",
     description: "Find the right mentor to get your career On Track.",
     link: "https://www.figma.com/proto/1EKelARAwncltUYDV1bhyF/OnTrack?node-id=69%3A2604&scaling=scale-down&page-id=69%3A2574&starting-point-node-id=69%3A2604&hide-ui=1",
@@ -46,8 +57,8 @@ export const projectsData = [
     used: "Figma",
   },
   {
-    id: 5,
-    image: Work5,
+    id: 6,
+    image: Work6,
     title: "Muvie",
     description: "Buy and share digital movie tickets with your friends.",
     link: "https://www.figma.com/proto/0v75ojAIQkhzLjeSeVL1HO/Muvie?node-id=401%3A5069&scaling=scale-down&starting-point-node-id=615%3A14010&hide-ui=1",
