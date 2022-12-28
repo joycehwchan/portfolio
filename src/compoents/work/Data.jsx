@@ -41,7 +41,7 @@ export const projectsData = [
     image: Work4,
     title: "Himitsu Chat",
     description: "A secret chat to share your thoughts with your friends.",
-    link: "joycehwchan.github.io/himitsu-chat/",
+    link: "https://github.com/joycehwchan/himitsu-chat",
     github: "https://github.com/joycehwchan/himitsu-chat",
     category: "web",
     used: "React, Firebase, Sass",
